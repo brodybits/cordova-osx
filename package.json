@@ -25,6 +25,7 @@
   "license": "Apache Version 2.0",
   "dependencies": {
     "cordova-common": "github:brodybits/cordova-common#plist-2-patch",
+    "cordova-registry-mapper": "1.1.15",
     "nopt": "^3.0.6",
     "q": "^1.5.1",
     "shelljs": "0.5.3",
@@ -34,6 +35,7 @@
   },
   "bundledDependencies": [
     "cordova-common",
+    "cordova-registry-mapper",
     "nopt",
     "q",
     "underscore",
