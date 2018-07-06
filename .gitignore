@@ -7,4 +7,5 @@ tmp
 xcuserdata
 *.xcworkspace
 console.log
-/node_modules
+node_modules/.bin
+package-lock.json
