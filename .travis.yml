@@ -7,5 +7,6 @@ install:
 - npm install
 
 script:
-- npm run jasmine
+- npm run jasmine-tests
+- npm run objc-tests
 - npm run eslint
