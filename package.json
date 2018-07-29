@@ -50,7 +50,6 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "jasmine": "^2.6.0",
-    "nodeunit": "^0.8.7",
     "tmp": "^0.0.26"
   }
 }
